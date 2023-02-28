@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{68952C5A-7440-5252-67BC-603E80F38E6B}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d3e2fa0d-88c9-4144-b67e-dec37eb7b923" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PortraitHolder.cs">
+    <Files>
+      <File FileName="Assets/Shaders/PortalWindow.shader" />
+      <File FileName="Assets/Shaders/StencilFilter.shader" />
+      <File FileName="Assets/Scripts/PortalDoorEntry.cs" />
+      <File FileName="Assets/Scripts/ARTapToPlace.cs" Line="168" Column="40" />
+      <File FileName="Assets/Scripts/UIHandler.cs" />
+      <File FileName="Assets/Scripts/PortraitHolder.cs" Line="41" Column="48" />
+      <File FileName="Assets/Scripts/ClickToMove.cs" />
+      <File FileName="Assets/Scripts/UIButtonHandler.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARCollectorRoomSample" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Shaders" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
